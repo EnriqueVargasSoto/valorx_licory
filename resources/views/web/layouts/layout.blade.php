@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Atiendo Licory</title>
+    <title>Licoreria Atiendo</title>
 
     <link media="all" href="{{ asset('web/wp-content/cache/autoptimize/css/autoptimize_f570402d9656d08ae3f25a9006360db2.css')}}" rel="stylesheet"/>
 
@@ -344,13 +344,13 @@
                                                 <div class="ajax-search-result d-none"></div>
                                                 <form method="get" class="woocommerce-product-search" action="#">
                                                     {{--<label class="screen-reader-text" for="woocommerce-product-search-field-1">Search for:</label>--}}
-                                                    <input type="search" id="woocommerce-product-search-field-1" class="search-field" placeholder="Search products&hellip;" autocomplete="off" value name="s"/>
+                                                    <input type="search" id="woocommerce-product-search-field-1" class="search-field" placeholder="Buscar Productos&hellip;" autocomplete="off" value name="s"/>
                                                     <button type="submit" value="Search">Search</button>
                                                     {{--<input type="hidden" name="post_type" value="product"/>--}}
                                                     {{--<<div class="search-by-category input-dropdown">
                                                     div class="input-dropdown-inner liquory-scroll-content">
                                                         <a href="#" data-val="0"
-                                                        ><span>All category</span></a
+                                                        ><span>Categorias</span></a
                                                         >
                                                         <select
                                                         name="product_cat"
@@ -358,46 +358,46 @@
                                                         class="dropdown_product_cat_ajax"
                                                         >
                                                         <option value selected="selected">
-                                                            All category
+                                                            Todas las Categorias
                                                         </option>
                                                         <option class="level-0" value="accessories">
-                                                            Accessories
+                                                            Accesorios
                                                         </option>
                                                         <option class="level-0" value="beer">
-                                                            Beer
+                                                            Cervezas
                                                         </option>
                                                         <option class="level-0" value="cocktail">
-                                                            Cocktail
+                                                            Cocteles
                                                         </option>
                                                         <option class="level-0" value="cognac">
-                                                            Cognac
+                                                            Coñac
                                                         </option>
                                                         <option class="level-0" value="deals">
-                                                            Deals
+                                                            Ofertas
                                                         </option>
                                                         <option class="level-0" value="others-drinks">
-                                                            Others Drinks
+                                                            Otras Bebidas
                                                         </option>
                                                         <option class="level-0" value="spirits">
-                                                            Spirits
+                                                            Bebidas Espirituosas
                                                         </option>
                                                         <option class="level-0" value="tequila">
                                                             Tequila
                                                         </option>
                                                         <option class="level-0" value="uncategorized">
-                                                            Uncategorized
+                                                            Otras Categorias
                                                         </option>
                                                         <option class="level-0" value="whiskey">
                                                             Whiskey
                                                         </option>
                                                         <option class="level-0" value="wine">
-                                                            Wine
+                                                            Vinos
                                                         </option>
                                                         </select>
                                                         <div class="list-wrapper liquory-scroll">
                                                         <ul class="liquory-scroll-content">
                                                             <li class="d-none">
-                                                            <a href="#" data-val="0">All category</a>
+                                                            <a href="#" data-val="0">Todas las Categorias</a>
                                                             </li>
                                                             <li class="cat-item cat-item-46">
                                                             <a
@@ -405,7 +405,7 @@
                                                                 href="product-category/accessories/index.html"
                                                                 data-val="accessories"
                                                                 data-title="Accessories"
-                                                                >Accessories</a
+                                                                >Accesorios</a
                                                             >
                                                             </li>
                                                             <li class="cat-item cat-item-40">
@@ -414,7 +414,7 @@
                                                                 href="product-category/beer/index.html"
                                                                 data-val="beer"
                                                                 data-title="Beer"
-                                                                >Beer</a
+                                                                >Cervezas</a
                                                             >
                                                             </li>
                                                             <li class="cat-item cat-item-43">
@@ -423,7 +423,7 @@
                                                                 href="product-category/cocktail/index.html"
                                                                 data-val="cocktail"
                                                                 data-title="Cocktail"
-                                                                >Cocktail</a
+                                                                >Cocteles</a
                                                             >
                                                             </li>
                                                             <li class="cat-item cat-item-42">
@@ -432,7 +432,7 @@
                                                                 href="product-category/cognac/index.html"
                                                                 data-val="cognac"
                                                                 data-title="Cognac"
-                                                                >Cognac</a
+                                                                >Coñac</a
                                                             >
                                                             </li>
                                                             <li class="cat-item cat-item-113">
@@ -441,7 +441,7 @@
                                                                 href="product-category/deals/index.html"
                                                                 data-val="deals"
                                                                 data-title="Deals"
-                                                                >Deals</a
+                                                                >Ofertas</a
                                                             >
                                                             </li>
                                                             <li class="cat-item cat-item-47">
@@ -450,7 +450,7 @@
                                                                 href="product-category/others-drinks/index.html"
                                                                 data-val="others-drinks"
                                                                 data-title="Others Drinks"
-                                                                >Others Drinks</a
+                                                                >Otras Bebidas</a
                                                             >
                                                             </li>
                                                             <li class="cat-item cat-item-45">
@@ -459,7 +459,7 @@
                                                                 href="product-category/spirits/index.html"
                                                                 data-val="spirits"
                                                                 data-title="Spirits"
-                                                                >Spirits</a
+                                                                >Bebidas Espirituosas</a
                                                             >
                                                             </li>
                                                             <li class="cat-item cat-item-44">
@@ -477,7 +477,7 @@
                                                                 href="product-category/uncategorized/index.html"
                                                                 data-val="uncategorized"
                                                                 data-title="Uncategorized"
-                                                                >Uncategorized</a
+                                                                >Otras Categorias</a
                                                             >
                                                             </li>
                                                             <li class="cat-item cat-item-41">
@@ -486,7 +486,7 @@
                                                                 href="product-category/whiskey/index.html"
                                                                 data-val="whiskey"
                                                                 data-title="Whiskey"
-                                                                >Whiskey</a
+                                                                >Whisky</a
                                                             >
                                                             </li>
                                                             <li class="cat-item cat-item-39">
@@ -495,7 +495,7 @@
                                                                 href="product-category/wine/index.html"
                                                                 data-val="wine"
                                                                 data-title="Wine"
-                                                                >Wine</a
+                                                                >Vino</a
                                                             >
                                                             </li>
                                                         </ul>
@@ -533,7 +533,7 @@
                                                     <a href="my-account/index.html">
                                                         <div class="icon"></div>
                                                         <div class="account-content">
-                                                            <span class="content-content">Sign In or Register</span>
+                                                            <span class="content-content">Ingresar o Registrarse</span>
                                                         </div>
                                                     </a>
                                                     <div class="account-dropdown"></div>
@@ -583,7 +583,7 @@
                                                             <span class="icon-2"></span>
                                                             <span class="icon-1"></span>
                                                         </div>
-                                                        <div class="title">Categrias</div>
+                                                        <div class="title">Categorias</div>
                                                     </div>
                                                     <div class="liquory-icon"></div>
                                                 </div>
@@ -595,7 +595,7 @@
                                                         >
                                                             <a href="#"
                                                             ><i class="menu-icon liquory-icon-wine"></i
-                                                            ><span class="menu-title">Wine</span></a
+                                                            ><span class="menu-title">Vino</span></a
                                                             >
                                                             <ul
                                                             class="sub-menu mega-menu custom-subwidth"
@@ -1774,7 +1774,7 @@
                                                         >
                                                             <a href="#"
                                                             ><i class="menu-icon liquory-icon-beer"></i
-                                                            ><span class="menu-title">Beer</span></a
+                                                            ><span class="menu-title">Cerveza</span></a
                                                             >
                                                             <ul
                                                             class="sub-menu mega-menu custom-subwidth"
@@ -1932,7 +1932,7 @@
                                                                                     <a
                                                                                         href="shop/sleek-rubber-plate/index.html"
                                                                                         class="hfe-menu-item"
-                                                                                        >Beer</a
+                                                                                        >Cerveza</a
                                                                                     >
                                                                                     </li>
                                                                                     <li
@@ -2665,7 +2665,7 @@
                                                         >
                                                             <a href="#"
                                                             ><i class="menu-icon liquory-icon-whiskey"></i
-                                                            ><span class="menu-title">Whiskey</span></a
+                                                            ><span class="menu-title">Whisky</span></a
                                                             >
                                                             <ul
                                                             class="sub-menu mega-menu custom-subwidth"
@@ -3398,7 +3398,7 @@
                                                                                             <h3
                                                                                             class="elementor-cta__heading2 elementor-cta__content-item elementor-content-item"
                                                                                             >
-                                                                                            Whiskey
+                                                                                            Whisky
                                                                                             </h3>
                                                                                             <div
                                                                                             class="elementor-cta__description elementor-cta__content-item elementor-content-item"
@@ -3438,7 +3438,7 @@
                                                         >
                                                             <a href="shop/durable-steel-pants/index.html"
                                                             ><i class="menu-icon liquory-icon-cogac"></i
-                                                            ><span class="menu-title">Cogac</span></a
+                                                            ><span class="menu-title">Coñac</span></a
                                                             >
                                                         </li>
                                                         <li
@@ -3449,7 +3449,7 @@
                                                             ><i
                                                                 class="menu-icon liquory-icon-cocktail"
                                                             ></i
-                                                            ><span class="menu-title">Cocktail</span></a
+                                                            ><span class="menu-title">Cocteles</span></a
                                                             >
                                                         </li>
                                                         <li
@@ -3469,14 +3469,14 @@
                                                             href="shop/lightweight-leather-clock/index.html"
                                                             ><i class="menu-icon liquory-icon-new"></i
                                                             ><span class="menu-title"
-                                                                >What&#8217;s New</span
+                                                                >Nuevos Productos</span
                                                             ><small
                                                                 class="menu-badge"
                                                                 style="
                                                                 color: #ffffff;
                                                                 background-color: #1e73be;
                                                                 "
-                                                                >New</small
+                                                                >Nuevo</small
                                                             ></a
                                                             >
                                                         </li>
@@ -3488,7 +3488,7 @@
                                                             href="shop/incredible-cotton-computer/index.html"
                                                             ><i class="menu-icon liquory-icon-gift2"></i
                                                             ><span class="menu-title"
-                                                                >Gift &#038; Accessories</span
+                                                                >Snack</span
                                                             ></a
                                                             >
                                                         </li>
@@ -3501,7 +3501,7 @@
                                                                 class="menu-icon liquory-icon-best-seller"
                                                             ></i
                                                             ><span class="menu-title"
-                                                                >Best Sellers</span
+                                                                >Mas Vendidos</span
                                                             ></a
                                                             >
                                                         </li>
@@ -3512,7 +3512,7 @@
                                                             <a href="shop/rustic-steel-computer/index.html"
                                                             ><i class="menu-icon liquory-icon-sale"></i
                                                             ><span class="menu-title"
-                                                                >Sales &#038; Offers</span
+                                                                >Ofertas</span
                                                             ><small
                                                                 class="menu-badge"
                                                                 style="
@@ -4046,7 +4046,7 @@
                                                             </ul>--}}
                                                         </li>
                                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129 has-mega-menu has-stretchwidth">
-                                                            <a href="#"><span class="menu-title">Shop</span></a>
+                                                            <a href="#"><span class="menu-title">Ron</span></a>
                                                             {{--<ul class="sub-menu mega-menu mega-stretchwidth">
                                                                 <li class="mega-menu-item">
                                                                     <div
@@ -4713,16 +4713,16 @@
                                                             </ul>--}}
                                                         </li>
                                                         <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2577">
-                                                            <a href="#"><span class="menu-title">Wine</span></a>
+                                                            <a href="#"><span class="menu-title">Vino</span></a>
                                                         </li>
                                                         <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2579">
-                                                            <a href="#"><span class="menu-title">Beer</span></a>
+                                                            <a href="#"><span class="menu-title">Cerveza</span></a>
                                                         </li>
                                                         <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2578">
-                                                            <a href="#"><span class="menu-title">Whiskey</span></a>
+                                                            <a href="#"><span class="menu-title">Whisky</span></a>
                                                         </li>
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-132">
-                                                            <a href="#"><span class="menu-title">Pages</span></a>
+                                                            <a href="#"><span class="menu-title">Paginas</span></a>
                                                             {{--<ul class="sub-menu">
                                                                 <li
                                                                     id="menu-item-141"
@@ -4800,7 +4800,7 @@
                                                             </ul>--}}
                                                         </li>
                                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130">
-                                                            <a href="#"><span class="menu-title">Contact</span></a>
+                                                            <a href="#"><span class="menu-title">Contacto</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -5854,7 +5854,7 @@
                                         <h3
                                           class="elementor-heading-title elementor-size-default"
                                         >
-                                          Trending today
+                                          Tendencias de hoy
                                         </h3>
                                       </div>
                                     </div>
@@ -5868,8 +5868,7 @@
                                         <div
                                           class="elementor-heading-title elementor-size-default"
                                         >
-                                          The best selection of whisky, vodka and
-                                          liqueur
+                                        La mejor selección de whisky, vodka y licores
                                         </div>
                                       </div>
                                     </div>
@@ -5881,7 +5880,8 @@
                                     >
                                       <div class="elementor-widget-container">
                                         <div class="elementor-divider">
-                                          <span class="elementor-divider-separator">
+                                          <span class="elementor-divider-separato
+                                          r">
                                           </span>
                                         </div>
                                       </div>
@@ -5902,7 +5902,7 @@
                                               class="elementor-button-content-wrapper"
                                             >
                                               <span class="elementor-button-text"
-                                                >View All</span
+                                                >Ver todo</span
                                               >
                                             </span>
                                           </a>
@@ -9336,7 +9336,7 @@
                                                                   data-product_id="321"
                                                                   class="button alt ajax_add_to_cart add_to_cart_button product_type_simple"
                                                                 >
-                                                                  Add to cart
+                                                                  Agregar a carrito
                                                                 </button>
                                                               </form>
                                                             </div>
@@ -9724,7 +9724,7 @@
                                                                   data-product_id="274"
                                                                   class="button alt ajax_add_to_cart add_to_cart_button product_type_simple"
                                                                 >
-                                                                  Add to cart
+                                                                  Agregar a Carrito
                                                                 </button>
                                                               </form>
                                                             </div>
@@ -10202,7 +10202,7 @@
                                           </div>
                                           <div class="product-cat-caption">
                                             <div class="cat-title">
-                                              <span class="title">Whiskey</span>
+                                              <span class="title">Whisky</span>
                                             </div>
                                             <div class="cat-total">
                                               <span class="count">5</span>
@@ -10523,7 +10523,7 @@
                                         <h3
                                           class="elementor-heading-title elementor-size-default"
                                         >
-                                          Latest products
+                                          Ultimos Productos
                                         </h3>
                                       </div>
                                     </div>
@@ -10537,8 +10537,7 @@
                                         <div
                                           class="elementor-heading-title elementor-size-default"
                                         >
-                                          The best selection of whisky, vodka and
-                                          liqueur
+                                        La mejor selección de whisky, vodka y licor
                                         </div>
                                       </div>
                                     </div>
@@ -10571,7 +10570,7 @@
                                               class="elementor-button-content-wrapper"
                                             >
                                               <span class="elementor-button-text"
-                                                >View All</span
+                                                >Ver Todo</span
                                               >
                                             </span>
                                           </a>
@@ -10599,7 +10598,7 @@
                                       role="tab"
                                       aria-controls="elementor-tab-content-4111"
                                     >
-                                      Best Seller
+                                      Mas Vendidos
                                     </div>
                                     <div
                                       id="elementor-tab-title-4112"
@@ -10609,7 +10608,7 @@
                                       role="tab"
                                       aria-controls="elementor-tab-content-4112"
                                     >
-                                      Sales
+                                      Ventas
                                     </div>
                                     <div
                                       id="elementor-tab-title-4113"
@@ -10619,7 +10618,7 @@
                                       role="tab"
                                       aria-controls="elementor-tab-content-4113"
                                     >
-                                      Featured
+                                      Presentada
                                     </div>
                                     <div
                                       id="elementor-tab-title-4114"
@@ -10629,7 +10628,7 @@
                                       role="tab"
                                       aria-controls="elementor-tab-content-4114"
                                     >
-                                      New Products
+                                      Nuevos Productos
                                     </div>
                                   </div>
                                   <div
@@ -10643,7 +10642,7 @@
                                       role="tab"
                                       aria-controls="elementor-tab-content-4111"
                                     >
-                                      Best Seller
+                                      Mas Vendidos
                                     </div>
                                     <div
                                       id="elementor-tab-content-4111"
@@ -10706,21 +10705,21 @@
                                                           data-product_name="Sleek Rubber Plate"
                                                           data-product_image="wp-content/uploads/2022/07/product-19-1-150x150.jpg"
                                                         >
-                                                          Add to wishlist</button
+                                                          Añadir a la Lista</button
                                                         ><button
                                                           class="woosq-btn woosq-btn-325"
                                                           data-id="325"
                                                           data-effect="mfp-3d-unfold"
                                                           data-context="default"
                                                         >
-                                                          Quick view</button
+                                                          Vista Rapida</button
                                                         ><button
                                                           class="woosc-btn woosc-btn-325"
                                                           data-id="325"
                                                           data-product_name="Sleek Rubber Plate"
                                                           data-product_image="wp-content/uploads/2022/07/product-19-1-150x150.jpg"
                                                         >
-                                                          Compare
+                                                          Comparar
                                                         </button>
                                                       </div>
                                                     </div>
@@ -10735,7 +10734,7 @@
                                                     >
                                                       <a
                                                         href="shop/sleek-rubber-plate/index.html"
-                                                        >Sleek Rubber Plate</a
+                                                        >Placa de Goma Elegante</a
                                                       >
                                                     </h3>
                                                     <div class="count-review">
@@ -10745,7 +10744,7 @@
                                                         aria-label="Rated 4.00 out of 5"
                                                       >
                                                         <span style="width: 80%"
-                                                          >Rated
+                                                          >Clasificado
                                                           <strong class="rating"
                                                             >4.00</strong
                                                           >
@@ -10768,9 +10767,9 @@
                                                     <span class="inventory_status"
                                                       ><span
                                                         class="stock-title screen-reader-text"
-                                                        >Availability:</span
+                                                        >Disponibilidad:</span
                                                       >
-                                                      In Stock</span
+                                                      En Stock</span
                                                     >
                                                     <div
                                                       class="product-caption-bottom"
@@ -10785,7 +10784,7 @@
                                                           <label
                                                             class="quantity_label"
                                                             for="quantity_65139c945c759"
-                                                            >Quantity</label
+                                                            >Cantidad</label
                                                           >
                                                           <div class="quantity">
                                                             <input
@@ -10809,7 +10808,7 @@
                                                           data-product_id="325"
                                                           class="button alt ajax_add_to_cart add_to_cart_button product_type_simple"
                                                         >
-                                                          Add to cart
+                                                          Añadir al Carrito
                                                         </button>
                                                       </form>
                                                     </div>
@@ -10861,21 +10860,21 @@
                                                           data-product_name="Aerodynamic Linen Bench"
                                                           data-product_image="wp-content/uploads/2022/07/product-17-1-150x150.jpg"
                                                         >
-                                                          Add to wishlist</button
+                                                          Añadir a la Lista</button
                                                         ><button
                                                           class="woosq-btn woosq-btn-321"
                                                           data-id="321"
                                                           data-effect="mfp-3d-unfold"
                                                           data-context="default"
                                                         >
-                                                          Quick view</button
+                                                          Vista Rapida</button
                                                         ><button
                                                           class="woosc-btn woosc-btn-321"
                                                           data-id="321"
                                                           data-product_name="Aerodynamic Linen Bench"
                                                           data-product_image="wp-content/uploads/2022/07/product-17-1-150x150.jpg"
                                                         >
-                                                          Compare
+                                                          Comparar
                                                         </button>
                                                       </div>
                                                     </div>
@@ -11449,7 +11448,7 @@
                                                           data-product_id="313"
                                                           class="button alt ajax_add_to_cart add_to_cart_button product_type_simple"
                                                         >
-                                                          Add to cart
+                                                          Agregar a carrito
                                                         </button>
                                                       </form>
                                                     </div>
@@ -11980,7 +11979,7 @@
                                                           data-product_id="274"
                                                           class="button alt ajax_add_to_cart add_to_cart_button product_type_simple"
                                                         >
-                                                          Add to cart
+                                                          Agrear a carrito
                                                         </button>
                                                       </form>
                                                     </div>
@@ -12945,7 +12944,7 @@
                                                           data-product_id="319"
                                                           class="button alt ajax_add_to_cart add_to_cart_button product_type_simple"
                                                         >
-                                                          Add to cart
+                                                          Agregar a carrito
                                                         </button>
                                                       </form>
                                                     </div>
@@ -13248,7 +13247,7 @@
                                                           data-product_id="278"
                                                           class="button alt ajax_add_to_cart add_to_cart_button product_type_simple"
                                                         >
-                                                          Add to cart
+                                                          Agregar a carrito
                                                         </button>
                                                       </form>
                                                     </div>
@@ -14668,7 +14667,7 @@
                                 <div
                                   class="elementor-heading-title elementor-size-default"
                                 >
-                                  Top Product Savings
+                                  Productos Principales
                                 </div>
                               </div>
                             </div>
@@ -14682,7 +14681,7 @@
                                 <h2
                                   class="elementor-heading-title elementor-size-default"
                                 >
-                                  this week deals
+                                  Ofertas de esta Semana
                                 </h2>
                               </div>
                             </div>
@@ -14696,7 +14695,7 @@
                                 <h2
                                   class="elementor-heading-title elementor-size-default"
                                 >
-                                  UP TO 50% OFF
+                                  HASTA 50% DE DESCUENTO
                                 </h2>
                               </div>
                             </div>
@@ -14707,8 +14706,8 @@
                               data-widget_type="text-editor.default"
                             >
                               <div class="elementor-widget-container">
-                                Access Liquory and order as many gifts for as many
-                                recipients, all in the one order.
+                              Accede a ATIENDO y pide tantos regalos para tantos
+                                 destinatarios, todo en un solo pedido.
                               </div>
                             </div>
                             <div
@@ -15014,8 +15013,7 @@
                                 <h2
                                   class="elementor-heading-title elementor-size-default"
                                 >
-                                  Top Selling
-                                </h2>
+                                  Mas Vendidos
                               </div>
                             </div>
                             <div
@@ -15325,7 +15323,7 @@
                                 <h2
                                   class="elementor-heading-title elementor-size-default"
                                 >
-                                  Trending Products
+                                  Productos en tendecia
                                 </h2>
                               </div>
                             </div>
@@ -15614,7 +15612,7 @@
                                 <h2
                                   class="elementor-heading-title elementor-size-default"
                                 >
-                                  Top Rated
+                                  Mas Valorados
                                 </h2>
                               </div>
                             </div>
@@ -15901,17 +15899,17 @@
                                       <h3
                                         class="elementor-cta__title elementor-cta__content-item elementor-content-item"
                                       >
-                                        Up to 50% off
+                                        Hasta 50% de Descuento
                                       </h3>
                                       <h3
                                         class="elementor-cta__heading2 elementor-cta__content-item elementor-content-item"
                                       >
-                                        Big sale off all items
+                                        Gran venta de todos los Productos
                                       </h3>
                                       <div
                                         class="elementor-cta__description elementor-cta__content-item elementor-content-item"
                                       >
-                                        Coming soon on October.
+                                        Proximamente
                                       </div>
                                       <div
                                         class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item"
@@ -15924,7 +15922,7 @@
                                             class="elementor-button-content-wrapper"
                                           >
                                             <span class="elementor-button-text"
-                                              >Show Now</span
+                                              >Mostrar Ahora</span
                                             >
                                           </span>
                                         </a>
@@ -16395,7 +16393,7 @@
                                         <h3
                                           class="elementor-heading-title elementor-size-default"
                                         >
-                                          Latest from blog
+                                          Lo ultimo del blog
                                         </h3>
                                       </div>
                                     </div>
@@ -16409,8 +16407,8 @@
                                         <div
                                           class="elementor-heading-title elementor-size-default"
                                         >
-                                          A selection of the best-selling beer and
-                                          wines
+                                        Una selección de las cervezas más vendidas y
+                                           vinos
                                         </div>
                                       </div>
                                     </div>
@@ -16443,7 +16441,7 @@
                                               class="elementor-button-content-wrapper"
                                             >
                                               <span class="elementor-button-text"
-                                                >View All</span
+                                                >Ver Todo</span
                                               >
                                             </span>
                                           </a>
@@ -16503,11 +16501,11 @@
                                         <div class="entry-content">
                                           <div class="categories-link">
                                             <span class="screen-reader-text"
-                                              >Categories</span
+                                              >Categorias</span
                                             ><a
                                               href="category/cocktail/index.html"
                                               rel="category tag"
-                                              >Cocktail</a
+                                              >Cocteles</a
                                             ><span class="dot">,</span
                                             ><a
                                               href="category/tips-trick/index.html"
@@ -16519,8 +16517,8 @@
                                             <a
                                               href="summer-is-twice-as-nice-with-peachy-sangria-wine/index.html"
                                               rel="bookmark"
-                                              >Summer Is Twice As Nice With Peachy
-                                              Sangria Wine</a
+                                              >El verano es dos veces más agradable con un buen Ron, unas cervezas bien heladas y
+                                               una buena Sangría </a
                                             >
                                           </h3>
                                           <div class="entry-meta">
@@ -17258,7 +17256,7 @@
                                     <h2
                                       class="elementor-heading-title elementor-size-default"
                                     >
-                                      Get exclusive offers & rewards
+                                    Obtenga Ofertas Exclusivas
                                     </h2>
                                   </div>
                                 </div>
@@ -17269,9 +17267,7 @@
                                   data-widget_type="text-editor.default"
                                 >
                                   <div class="elementor-widget-container">
-                                    Sign up for our members portal to receive some
-                                    exclusive offer &#038; rewards. It’s easy and
-                                    free!
+                                    Registrese  en nuestro portal de SOCIOS ATIENDO y recibe ofertas exclusivas. Es facil y sin costo.
                                   </div>
                                 </div>
                                 <div
@@ -17316,12 +17312,12 @@
                                           </p>
                                           <p class="form-button">
                                             <button type="submit" value="Sign up">
-                                              <span>sign up</span>
+                                              <span>Registrarse</span>
                                             </button>
                                           </p>
                                         </div>
                                         <label style="display: none !important"
-                                          >Leave this field empty if you're human:
+                                          >Deja este campo vacío si eres humano
                                           <input
                                             type="text"
                                             name="_mc4wp_honeypot"
@@ -17374,7 +17370,7 @@
                                     <h2
                                       class="elementor-heading-title elementor-size-default"
                                     >
-                                      stay connect
+                                      Mantente Conectado
                                     </h2>
                                   </div>
                                 </div>
@@ -17449,7 +17445,7 @@
                                     <h2
                                       class="elementor-heading-title elementor-size-default"
                                     >
-                                      we accept
+                                      Nosotros Aceptamos
                                     </h2>
                                   </div>
                                 </div>
@@ -17525,8 +17521,7 @@
                                   data-widget_type="text-editor.default"
                                 >
                                   <div class="elementor-widget-container">
-                                    4517 Washington Ave. Manchester, Kentucky 39495,
-                                    USA
+                                    Lima - Perú
                                   </div>
                                 </div>
                                 <div
@@ -17539,7 +17534,7 @@
                                     <div class="elementor-icon-box-wrapper">
                                       <div class="elementor-icon-box-content">
                                         <h3 class="elementor-icon-box-title">
-                                          <span> +(406) 555-0120 </span>
+                                          <span> +(51) 985547954 </span>
                                         </h3>
                                         <p class="elementor-icon-box-description">
                                           <a
@@ -17583,7 +17578,7 @@
                                       </div>
                                       <div class="elementor-icon-box-content">
                                         <h3 class="elementor-icon-box-title">
-                                          <span> Mobile Shopping Apps </span>
+                                          <span> Aplicacion de Compras Móviles </span>
                                         </h3>
                                       </div>
                                     </div>
@@ -17596,8 +17591,7 @@
                                   data-widget_type="text-editor.default"
                                 >
                                   <div class="elementor-widget-container">
-                                    Download the app and get the world at your
-                                    fingertips.
+                                    Descarga la Aplicación y ten el mundo  a tu alcance.
                                   </div>
                                 </div>
                                 <div
@@ -17673,9 +17667,8 @@
                                   data-widget_type="text-editor.default"
                                 >
                                   <div class="elementor-widget-container">
-                                    Copyright © 2022
-                                    <a href="index.html">Liquory</a>. All rights
-                                    reserved
+                                    Copyright © 2023
+                                    <a href="index.html">Atiendo</a>. Todos los Derechos Reservados
                                   </div>
                                 </div>
                               </div>
@@ -17694,19 +17687,19 @@
     <div class="account-wrap d-none">
         <div class="account-inner">
           <div class="login-form-head">
-            <span class="login-form-title">Sign in</span>
+            <span class="login-form-title">Iniciar Sesión</span>
             <span class="pull-right">
               <a
                 class="register-link"
                 href="my-account/index.html"
                 title="Register"
-                >Create an Account</a
+                >Crear una Cuenta</a
               >
             </span>
           </div>
           <form class="liquory-login-form-ajax" data-toggle="validator">
             <p>
-              <label>Username or email <span class="required">*</span></label>
+              <label>Usuario o Email <span class="required">*</span></label>
               <input
                 name="username"
                 type="text"
@@ -17715,7 +17708,7 @@
               />
             </p>
             <p>
-              <label>Password <span class="required">*</span></label>
+              <label>Contraseña <span class="required">*</span></label>
               <input
                 name="password"
                 type="password"
@@ -17728,7 +17721,7 @@
               data-button-action
               class="btn btn-primary btn-block w-100 mt-1"
             >
-              Login
+              Acceso
             </button>
             <input type="hidden" name="action" value="liquory_login" />
             <input
@@ -17747,7 +17740,7 @@
               href="my-account/lost-password/index.html"
               class="lostpass-link"
               title="Lost your password?"
-              >Lost your password?</a
+              >¿Perdiste tu Contraseña</a
             >
           </div>
         </div>
@@ -17761,9 +17754,9 @@
             <ul>
               <li
                 class="mobile-tab-title mobile-pages-title active"
-                data-menu="pages"
+                data-menu="paginas"
               >
-                <span>Main menu</span>
+                <span>Menú Principal</span>
               </li>
             </ul>
           </div>
@@ -17776,80 +17769,80 @@
                 <li
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-121"
                 >
-                  <a href="index.html">Home</a>
+                  <a href="index.html">Incio</a>
                   <ul class="sub-menu">
                     <li
                       id="menu-item-127"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-127"
                     >
-                      <a href="index.html">Home 1</a>
+                      <a href="index.html">Inicio 1</a>
                     </li>
                     <li
                       id="menu-item-126"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"
                     >
-                      <a href="home-2/index.html">Home 2</a>
+                      <a href="home-2/index.html">Inicio 2</a>
                     </li>
                     <li
                       id="menu-item-125"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"
                     >
-                      <a href="home-3/index.html">Home 3</a>
+                      <a href="home-3/index.html">Inicio 3</a>
                     </li>
                     <li
                       id="menu-item-124"
                       class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-22 current_page_item menu-item-124"
                     >
-                      <a href="home-4/index.html" aria-current="page">Home 4</a>
+                      <a href="home-4/index.html" aria-current="page">Inicio 4</a>
                     </li>
                     <li
                       id="menu-item-123"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"
                     >
-                      <a href="home-5/index.html">Home 5</a>
+                      <a href="home-5/index.html">Inicio 5</a>
                     </li>
                     <li
                       id="menu-item-122"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"
                     >
-                      <a href="home-6/index.html">Home 6</a>
+                      <a href="home-6/index.html">Inicio   6</a>
                     </li>
                   </ul>
                 </li>
                 <li
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"
                 >
-                  <a href="shop/index.html">Shop</a>
+                  <a href="shop/index.html">Ron</a>
                 </li>
                 <li
                   class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2577"
                 >
-                  <a href="product-category/wine/index.html">Wine</a>
+                  <a href="product-category/wine/index.html">Vino</a>
                 </li>
                 <li
                   class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2579"
                 >
-                  <a href="product-category/beer/index.html">Beer</a>
+                  <a href="product-category/beer/index.html">Cerveza</a>
                 </li>
                 <li
                   class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2578"
                 >
-                  <a href="product-category/whiskey/index.html">Whiskey</a>
+                  <a href="product-category/whiskey/index.html">Whisky</a>
                 </li>
                 <li
                   class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-132"
                 >
-                  <a href="#">Pages</a>
+                  <a href="#">Paginas</a>
                   <ul class="sub-menu">
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"
                     >
-                      <a href="about-us/index.html">About us</a>
+                      <a href="about-us/index.html">Nosotros</a>
                     </li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"
                     >
-                      <a href="faqs/index.html">FAQs</a>
+                      <a href="faqs/index.html">Preguntas Frecuentes</a>
                     </li>
                     <li
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144"
@@ -17894,7 +17887,7 @@
                 <li
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"
                 >
-                  <a href="contact-us/index.html">Contact</a>
+                  <a href="contact-us/index.html">Contacto</a>
                 </li>
               </ul>
             </div>
@@ -17905,24 +17898,24 @@
           >
             <div class="menu">
               <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html">Inicio</a></li>
                 <li class="page_item page-item-32">
-                  <a href="about-us/index.html">About us</a>
+                  <a href="about-us/index.html">Nosotros</a>
                 </li>
                 <li class="page_item page-item-36">
                   <a href="blog/index.html">Blog</a>
                 </li>
                 <li class="page_item page-item-9">
-                  <a href="cart/index.html">Cart</a>
+                  <a href="cart/index.html">Carrito</a>
                 </li>
                 <li class="page_item page-item-10">
-                  <a href="checkout/index.html">Checkout</a>
+                  <a href="checkout/index.html">Verificar</a>
                 </li>
                 <li class="page_item page-item-30">
-                  <a href="contact-us/index.html">Contact us</a>
+                  <a href="contact-us/index.html">Contacta con nosotros</a>
                 </li>
                 <li class="page_item page-item-34">
-                  <a href="faqs/index.html">Faqs</a>
+                  <a href="faqs/index.html">Preguntas Frecuentes</a>
                 </li>
                 <li class="page_item page-item-18">
                   <a href="home-2/index.html">Home 2</a>
@@ -17949,13 +17942,13 @@
                   <a href="landing-page/index.html">Landing page</a>
                 </li>
                 <li class="page_item page-item-11">
-                  <a href="my-account/index.html">My account</a>
+                  <a href="my-account/index.html">Mi cuenta</a>
                 </li>
                 <li class="page_item page-item-2">
                   <a href="sample-page/index.html">Sample Page</a>
                 </li>
                 <li class="page_item page-item-8">
-                  <a href="shop/index.html">Shop</a>
+                  <a href="shop/index.html">Ron</a>
                 </li>
                 <li class="page_item page-item-13">
                   <a href="wishlist/index.html">Wishlist</a>
