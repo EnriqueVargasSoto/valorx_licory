@@ -5713,22 +5713,22 @@
                                       <div
                                         class="elementor-cta__subtitle elementor-cta__content-item elementor-content-item"
                                       >
-                                        <div>Happy summer 2022</div>
+                                        <div>Feliz Verano 2024</div>
                                       </div>
                                       <h3
                                         class="elementor-cta__title elementor-cta__content-item elementor-content-item"
                                       >
-                                        Get $29 OFF
+                                        25% MENOS
                                       </h3>
                                       <h3
                                         class="elementor-cta__heading2 elementor-cta__content-item elementor-content-item"
                                       >
-                                        Everything
+                                        EN CERVEZAS
                                       </h3>
                                       <div
                                         class="elementor-cta__description elementor-cta__content-item elementor-content-item"
                                       >
-                                        Good beer right here!
+                                        ¡Buenas Cerveza!
                                       </div>
                                       <div
                                         class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item"
@@ -5741,7 +5741,7 @@
                                             class="elementor-button-content-wrapper"
                                           >
                                             <span class="elementor-button-text"
-                                              >Shop Now</span
+                                              >Comprar Ahora</span
                                             >
                                           </span>
                                         </a>
@@ -5776,17 +5776,17 @@
                                       <h3
                                         class="elementor-cta__title elementor-cta__content-item elementor-content-item"
                                       >
-                                        Big sale
+                                        Gran Venta
                                       </h3>
                                       <h3
                                         class="elementor-cta__heading2 elementor-cta__content-item elementor-content-item"
                                       >
-                                        <strong>35%</strong> off
+                                        <strong>35%</strong> Menos
                                       </h3>
                                       <div
                                         class="elementor-cta__description elementor-cta__content-item elementor-content-item"
                                       >
-                                        Hurry Up Expire Soon!
+                                        Date prisa, vence pronto!
                                       </div>
                                       <div
                                         class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item"
@@ -5799,7 +5799,7 @@
                                             class="elementor-button-content-wrapper"
                                           >
                                             <span class="elementor-button-text"
-                                              >Shop Now</span
+                                              >Comprar Ahora</span
                                             >
                                           </span>
                                         </a>
